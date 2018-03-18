@@ -1,2 +1,2 @@
 # Algoritmos
-Resolução de exercícios de Algoritmo
+Resolução de Algoritmos
