@@ -1,2 +1,0 @@
-# Algoritmos
-Resolução de Algoritmos
